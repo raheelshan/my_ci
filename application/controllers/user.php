@@ -3,7 +3,7 @@
 Class User extends MY_Controller {
 
 	public $data;
-	public $models = array('users');
+	public $models = array('users'); 
 	public $layout = TRUE;
 	public $view;		
 	
